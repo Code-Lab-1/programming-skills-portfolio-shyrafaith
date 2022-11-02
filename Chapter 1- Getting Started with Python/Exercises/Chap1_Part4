@@ -1,0 +1,4 @@
+a = "I"
+b = "love"
+c = "you"
+print(a,b,c)

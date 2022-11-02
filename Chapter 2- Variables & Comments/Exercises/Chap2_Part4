@@ -1,0 +1,3 @@
+fave_num = 17
+txt = f"My favorite number is {fave_num}."
+print(txt)

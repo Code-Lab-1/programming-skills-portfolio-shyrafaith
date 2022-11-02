@@ -1,0 +1,19 @@
+names = ["matthew","james", "jadon", "rose","rujeth","angel"]
+txt = f" I appreciate our friendship, dear {names[0]}"
+print(txt)
+
+txt = f" I appreciate our friendship, dear {names[1]}."
+print(txt)
+
+txt = f" I appreciate our friendship, dear {names[2]}."
+print(txt)
+
+txt = f" I appreciate our friendship, dear {names[3]}."
+print(txt)
+
+txt = f" I appreciate our friendship, dear {names[4]}."
+print(txt)
+
+txt = f" I appreciate our friendship, dear {names[5]}."
+print(txt)
+
