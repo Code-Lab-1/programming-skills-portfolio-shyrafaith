@@ -1,0 +1,6 @@
+def percentage():
+    print("Enter the first number: ")
+    print("Enter the second number: ")
+    print("Enter the third number: ")
+    print("Enter the fourth number: ")
+    

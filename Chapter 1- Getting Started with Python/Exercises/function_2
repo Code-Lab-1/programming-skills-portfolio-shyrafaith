@@ -1,0 +1,16 @@
+#take a number from user, and print its table upto 10th
+
+def multiply():
+  num = ("Enter the number of your choice. ")
+  sum = num*1
+  sum1 = num*2
+  sum2 = num*3
+  sum3 = num*4
+  sum4 = num*5
+  sum5 = num*6
+  sum6 = num*7
+  sum7 = num*8
+  sum8 = num*9
+  sum9 = num*10
+print("num", "sum", "sum1")
+    

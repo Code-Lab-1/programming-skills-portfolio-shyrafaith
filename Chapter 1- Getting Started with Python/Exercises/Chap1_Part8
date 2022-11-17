@@ -1,0 +1,3 @@
+num = int(10-7)
+sum= num
+print(sum)
