@@ -1,0 +1,3 @@
+info = {'Name': 'Shyra', 'Age': 17, 'Status': 'Student'}
+print "info['Name']: ", info['Name']
+print "info['Age']: ", info['Age']

@@ -1,0 +1,3 @@
+def location(Country):
+  msg = ("I am living in .")
+  print(msg + (Country))

@@ -1,0 +1,6 @@
+sen = ["The following lines will print each letters of "]
+fruits = ["Apple", "Banana", "cherry"]
+
+for x in sen:
+  for y in fruits:
+      print(x, y)

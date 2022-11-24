@@ -1,4 +1,13 @@
-a = b = c = "Hello! My name's Shyra."
-print(a)
-print(b)
-print(c)
+name = "Shyra Faith"
+age = 16
+contact_number = "7235812"
+email = "shyrafaith25@gmail.com"
+department = "Level 4 Creative Computing"
+level = "Bachelors"
+
+print (name)
+print (age)
+print (contact_number)
+print (email)
+print (department)
+print (level)

@@ -1,0 +1,2 @@
+student = {'Name': 'Kyle', 'age': 17, 'Gender' : 'Male', 'Class' : 'Year1', 'Location': 'United Arab Emirates'}
+student.popitem()

@@ -1,3 +1,15 @@
-a = 17
-b = 3
-print(a + b)
+Subject_1 = int(input("enter your marks:"))
+Subject_2 = int(input("enter your marks:"))
+Subject_3 = int(input("enter your marks:"))
+Subject_4 = int(input("enter your marks:"))
+Subject_5 = int(input("enter your marks:"))
+
+sum = Subject_1 + Subject_2 + Subject_3 + Subject_4 + Subject_5
+print ("Total marks:", sum)
+
+average = sum/5
+print ("Average score:", average)
+
+quotient = sum
+percent = quotient/ 500 * 100
+print ("Percentage:", percent) 
