@@ -1,6 +1,6 @@
 Password_num = input('Enter password ')
 
 if Password_num == "1246":
-    print("Correct password")
+    print("Correct password: ")
 else:
     print("Incorrect Password")

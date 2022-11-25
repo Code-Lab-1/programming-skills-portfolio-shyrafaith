@@ -1,3 +1,4 @@
-def location(Country):
-  msg = ("I am living in .")
-  print(msg + (Country))
+def my_function(fname, lname):
+  print(fname + " " + lname)
+
+my_function("Shyra", "Uy")

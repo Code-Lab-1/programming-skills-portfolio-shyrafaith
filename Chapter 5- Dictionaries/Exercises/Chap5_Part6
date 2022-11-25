@@ -1,3 +1,2 @@
-info = {'Name': 'Shyra', 'Age': 17, 'Status': 'Student'}
-print "info['Name']: ", info['Name']
-print "info['Age']: ", info['Age']
+student = {'Name': 'Jadon', 'age': 17, 'Gender' : 'Male', 'Class' : 'Year1', 'Location': 'United Arab Emirates'}
+print(student.items())

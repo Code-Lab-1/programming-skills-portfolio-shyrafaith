@@ -1,2 +1,9 @@
-student = {'Name': 'Kyle', 'age': 17, 'Gender' : 'Male', 'Class' : 'Year1', 'Location': 'United Arab Emirates'}
-student.popitem()
+my_dict = {'Name': 'Shyra', 'Age': 17}
+
+my_dict['age'] = 17
+
+print(my_dict)
+
+my_dict['address'] = 'Dubai'
+
+print(my_dict)

@@ -1,4 +1,4 @@
-age = 20
+age = 17
 
 if age < 2:
     print("You're a baby!")
