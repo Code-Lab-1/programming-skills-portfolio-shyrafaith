@@ -1,0 +1,5 @@
+fruits = ["Apple", "Cherry", "Banana", "Strawberry"]
+for x in fruits:
+  print(x)
+  if x == "Banana":
+    break

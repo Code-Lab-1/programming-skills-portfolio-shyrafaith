@@ -1,0 +1,2 @@
+student = {'Name': 'Jadon', 'age': 17, 'Gender' : 'Male', 'Class' : 'Year1', 'Location': 'United Arab Emirates'}
+print(student.items())

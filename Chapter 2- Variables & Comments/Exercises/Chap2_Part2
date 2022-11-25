@@ -1,0 +1,3 @@
+quote_1 = "Margaret Mead once quoted that,"
+quote_2 = " “Always remember that you are absolutely unique. Just like everyone else.” "
+print(quote_1, quote_2)

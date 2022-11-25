@@ -1,0 +1,31 @@
+guests_names = ['Angel Logronio', 'Mateo James', 'Jeshurun Manuel', 'Chamyl Faye']
+
+name = guests_names[0].title()
+print(f"{name}, would you like to have a dinner date with me?.")
+
+name = guests_names[1].title()
+print(f"{name}, would you like to have a dinner date with me?")
+
+name = guests_names[2].title()
+print(f"{name}, would you like to have a dinner date with me?")
+
+name = guests_names[3].title()
+print(f"{name}, would you like to have a dinner date with me?")
+
+name = guests_names[3].title()
+print(f"\nSorry, {name} said: I'm not available at the moment.")
+
+del(guests_names[3])
+guests_names.insert(3, 'Kendra Brusola')
+
+name = guests_names[0].title()
+print(f"\n{name}, would you like to have a dinner date with me?")
+
+name = guests_names[1].title()
+print(f"{name}, would you like to have a dinner date with me?")
+
+name = guests_names[2].title()
+print(f"{name}, would you like to have a dinner date with me?")
+
+name = guests_names[3].title()
+print(f"{name}, would you like to have a dinner date with me?")

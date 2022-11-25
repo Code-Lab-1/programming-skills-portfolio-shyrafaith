@@ -1,0 +1,19 @@
+car_names = ["Honda","Toyota", "BMW", "Ferrari","Porshe","Jeep"]
+txt = f" I would like to have a {car_names[0]} car someday."
+print(txt)
+
+txt = f" I would like to have a {car_names[1]} car someday."
+print(txt)
+
+txt = f" I would like to have a {car_names[2]} car someday."
+print(txt)
+
+txt = f" I would like to have a {car_names[3]} car someday."
+print(txt)
+
+txt = f" I would like to have a {car_names[4]} car someday."
+print(txt)
+
+txt = f" I would like to have a {car_names[5]} car someday."
+print(txt)
+

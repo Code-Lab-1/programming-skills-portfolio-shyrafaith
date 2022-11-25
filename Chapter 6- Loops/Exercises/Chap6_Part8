@@ -1,0 +1,6 @@
+fruits = ["Apple", "Banana", "Cherry"]
+for fruits in fruits:
+  print("The following lines will print each letter of " + fruits)
+  for letter in fruits:
+    print(letter)
+  print("")

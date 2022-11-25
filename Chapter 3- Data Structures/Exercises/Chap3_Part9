@@ -1,0 +1,5 @@
+things = ["pen", "notebook", "pencil", "laptop", "bag"]
+i = 0
+while i < len(things):
+  print(things[i])
+  i = i + 1
