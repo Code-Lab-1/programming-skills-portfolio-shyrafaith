@@ -1,0 +1,9 @@
+def changeme( mylist ):
+   
+   mylist = [2,4,6,8,10]; 
+   print ("Even Numbers: ", mylist)
+   return
+
+mylist = [1,3,5,7,10,];
+changeme( mylist );
+print ("Odd Numbers: ", mylist)

@@ -1,0 +1,10 @@
+num = int(input("Please enter a number: "))
+if num < 1:
+    num = 0
+    print('The number is greter than 0.')
+elif num == 0:
+    print('The number is 0.')
+elif num == 1:
+    print('The number is 1.')
+else:
+    print('The number is greater than 1')

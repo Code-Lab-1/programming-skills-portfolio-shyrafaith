@@ -1,0 +1,38 @@
+guests_names = ['Angel Logronio', 'Mateo James', 'Jeshurun Manuel', 'Chamyl Faye']
+
+name = guests_names[0].title()
+print(f"{name}, would you like to have a dinner date with me?.")
+
+name = guests_names[1].title()
+print(f"{name}, would you like to have a dinner date with me?.")
+
+name = guests_names[2].title()
+print(f"{name}, would you like to have a dinner date with me?.")
+
+name = guests_names[3].title()
+print(f"{name}, would you like to have a dinner date with me?.")
+
+name = guests_names[3].title()
+print(f"\nSorry, {name} said: I'm not available at the moment.")
+
+del(guests_names[3])
+guests_names.insert(3, 'Kendra Brusola')
+
+print("\nSorry, I can only invite two people to dinner date because the table suddenly got booked.")
+
+name = guests_names. pop()
+print(f"Sorry, {name.title()} there's no room at the table.")
+
+name = guests_names.pop()
+print(f"Sorry, {name.title()} there's no room at the table.")
+
+name = guests_names[1].title()
+print(f"{name}, please come to dinner.")
+
+name = guests_names[0].title()
+print(f"{name}, please come to dinner.")
+
+del(guests_names[0])
+del(guests_names[0])
+
+print(guests_names)

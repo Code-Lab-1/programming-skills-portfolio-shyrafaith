@@ -1,0 +1,10 @@
+while True:
+    age = input("How old are you? ")
+    
+    age = int(age)
+    if age < 4:
+        print("You can eat for free")
+    elif age < 10:
+        print("You have 50 percent off") 
+    else:
+        print("You need to pay the full price")
